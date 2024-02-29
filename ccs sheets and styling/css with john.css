@@ -1,0 +1,24 @@
+
+<head>
+    <title>replit</title>
+    <style>
+    .container {
+        display: flex;
+    }
+    .left{
+        width: 50px;
+    }
+
+.right{
+    width: 50px;
+}
+.left, .right{ transition:background 0.3s ease;
+    padding: 20%; }
+    .left:hover{background: blanchedalmond;}
+    .left, .hover{ transition:background 0.3s ease;
+        padding: 20%; }
+        .left:hover{background: silver;}
+
+    </style>
+
+</head>
